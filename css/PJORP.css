@@ -1,0 +1,45 @@
+body{
+	background-image: url(images/kosmos.jpg) 
+}
+
+a{
+	color:#00fca4;
+	font-size:24px;
+}
+
+h1{
+	color:#CACDFB;
+	mardin:10px;
+	margin-left:600px;
+	padding:15px;
+	margin-right:600px;
+	font-family:Lobster, cursive;
+}
+
+strong{
+	border:3px solid #b8b5bc;
+	margin-left:140px;
+	padding-left:100px;
+	padding-right:100px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-family:Lobster, cursive;
+	border-radius:100px;
+	box-shadow:4px 4px 2px black;
+}
+
+.ddd{
+	margin-left:630px;
+	color:#E6EBFF;
+}
+
+div{
+	margin-left:600px;
+	margin-top:480px;
+	color:#000000;
+}
+
+strong:hover{
+	border:5px solid #b8b5bc;
+	box-shadow:5px 5px 2px black;
+}
